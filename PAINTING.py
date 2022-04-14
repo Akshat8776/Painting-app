@@ -1,4 +1,3 @@
-pfrom telnetlib import TN3270E
 import turtle
 import random
 import os
